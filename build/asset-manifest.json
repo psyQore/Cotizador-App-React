@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cotizador-app/static/css/main.76d3fc64.chunk.css",
+    "main.js": "/cotizador-app/static/js/main.9a621837.chunk.js",
+    "main.js.map": "/cotizador-app/static/js/main.9a621837.chunk.js.map",
+    "runtime~main.js": "/cotizador-app/static/js/runtime~main.e02d171d.js",
+    "runtime~main.js.map": "/cotizador-app/static/js/runtime~main.e02d171d.js.map",
+    "static/js/2.abbd2b59.chunk.js": "/cotizador-app/static/js/2.abbd2b59.chunk.js",
+    "static/js/2.abbd2b59.chunk.js.map": "/cotizador-app/static/js/2.abbd2b59.chunk.js.map",
+    "index.html": "/cotizador-app/index.html",
+    "precache-manifest.898de6a35a349aec2d295958f2d82471.js": "/cotizador-app/precache-manifest.898de6a35a349aec2d295958f2d82471.js",
+    "service-worker.js": "/cotizador-app/service-worker.js",
+    "static/css/main.76d3fc64.chunk.css.map": "/cotizador-app/static/css/main.76d3fc64.chunk.css.map"
+  }
+}
